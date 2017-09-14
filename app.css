@@ -1,0 +1,93 @@
+/*********************************************************************
+General
+/*********************************************************************/
+.wrap{
+  width: 93%;
+  margin: auto;
+}
+
+
+
+/*********************************************************************
+Navigation
+/*********************************************************************/
+.top-bar{
+  background-image: url("../images/binding_dark.png");
+}
+.top-bar ul{
+  background-color: transparent;
+  border-style: none;
+}
+
+.top-bar h4, .top-bar a{
+  color: gold;
+  font-weight: bold;
+  font-family: 'Merriweather', serif;
+}
+.top-bar, .menu-vertical{
+background-image: url("../images/binding_dark.png");
+}
+
+/*********************************************************************
+Header
+/*********************************************************************/
+.orbit-slide{
+  max-width: 50em;
+  width: 100%;
+  margin: auto;
+}
+.orbit-caption{
+  width: 50%;
+  margin: auto;
+}
+
+/*********************************************************************
+Main
+/*********************************************************************/
+.main{
+  padding-top: 20em;
+}
+.row{
+  width: 100%;
+  margin: auto;
+}
+.columns{
+  padding: 1em 2em;
+}
+.main img{
+  max-height: 30em;
+  max-width: 40em;
+}
+.main{
+  background-color: black
+}
+.main h3{
+  color: gold
+}
+.main p{
+  color: gold
+}
+
+/*********************************************************************
+Footer
+/*********************************************************************/
+.footer{
+  background-color: grey;
+  text-align: center;
+}
+.footer img{
+  max-height: 5em;
+  max-width: 5em;
+}
+.footer h3{
+  color: black;
+}
+.footer a{
+  color: black;
+}
+.footer p{
+  color: black;
+}
+a:hover{
+  color: #FFBD39;
+}
